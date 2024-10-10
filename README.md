@@ -1,1 +1,0 @@
-# desenvolvendo-uma-ferramenta-interativa-de-estudo-p
